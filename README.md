@@ -6,27 +6,8 @@ you can use the shell to switch flutter SDK so easy.
 
 ## Screenshots
 
-<table>
+![](./images/screen_shot_1.png)
 
-<tr>
-<td>
-<p align="center">
-<img src="images/screen_shot_1.png">
-</p>
-</td>
-</tr>
+![](./images/screen_shot_2.png)
 
-<tr>
-<td>
-<p align="center">
-<img src="images/screen_shot_2.png">
-</p>
-</td>
-<td>
-<p align="center">
-<img src="images/screen_shot_3.png">
-</p>
-</td>
-</tr>
-
-</table>
+![](./images/screen_shot_3.png)
