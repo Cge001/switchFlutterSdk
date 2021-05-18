@@ -11,12 +11,7 @@ you can use the shell to switch flutter SDK so easy.
 <tr>
 <td>
 <p align="center">
-<img src="images/screen_shot_1.png" width="60%" height="30%">
-</p>
-</td>
-<td>
-<p align="center">
-<img src="images/screen_shot_2.png" width="30%" height="30%">
+<img src="images/screen_shot_1.png">
 </p>
 </td>
 </tr>
@@ -29,7 +24,7 @@ you can use the shell to switch flutter SDK so easy.
 </td>
 <td>
 <p align="center">
-<img src="images/screen_shot_3.png" width="30%" height="30%">
+<img src="images/screen_shot_3.png">
 </p>
 </td>
 </tr>
